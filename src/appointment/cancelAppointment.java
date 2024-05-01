@@ -10,7 +10,7 @@ public class cancelAppointment {
 		//open broswer and enter url
 		//click on cancel appointment button
 		//select appointment to cancel
-		//get confirmation message for cancellation
+		//verify the confirmation message for cancellation is displayed
 
 	}
 
